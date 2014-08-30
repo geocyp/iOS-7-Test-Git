@@ -1,5 +1,5 @@
 //
-//  JGiViewController.h
+//  OWOuterSpaceTableViewController.h
 //  TheChallengeUIView
 //
 //  Created by jio on 30/08/14.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface JGiViewController : UIViewController
+@interface OWOuterSpaceTableViewController : UITableViewController
 
 @end
