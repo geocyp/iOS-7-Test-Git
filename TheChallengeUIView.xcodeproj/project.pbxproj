@@ -14,13 +14,13 @@
 		3007976719B19BBB0008A7A0 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 3007976619B19BBB0008A7A0 /* main.m */; };
 		3007976B19B19BBB0008A7A0 /* JGiAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 3007976A19B19BBB0008A7A0 /* JGiAppDelegate.m */; };
 		3007976E19B19BBB0008A7A0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3007976C19B19BBB0008A7A0 /* Main.storyboard */; };
-		3007977119B19BBB0008A7A0 /* JGiViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3007977019B19BBB0008A7A0 /* JGiViewController.m */; };
 		3007977319B19BBB0008A7A0 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3007977219B19BBB0008A7A0 /* Images.xcassets */; };
 		3007977A19B19BBB0008A7A0 /* XCTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3007977919B19BBB0008A7A0 /* XCTest.framework */; };
 		3007977B19B19BBB0008A7A0 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3007975A19B19BBB0008A7A0 /* Foundation.framework */; };
 		3007977C19B19BBB0008A7A0 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3007975E19B19BBB0008A7A0 /* UIKit.framework */; };
 		3007978419B19BBB0008A7A0 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 3007978219B19BBB0008A7A0 /* InfoPlist.strings */; };
 		3007978619B19BBB0008A7A0 /* TheChallengeUIViewTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 3007978519B19BBB0008A7A0 /* TheChallengeUIViewTests.m */; };
+		3098853919B1A6A200C6BF6A /* OWOuterSpaceTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3098853819B1A6A200C6BF6A /* OWOuterSpaceTableViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -45,14 +45,14 @@
 		3007976919B19BBB0008A7A0 /* JGiAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = JGiAppDelegate.h; sourceTree = "<group>"; };
 		3007976A19B19BBB0008A7A0 /* JGiAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = JGiAppDelegate.m; sourceTree = "<group>"; };
 		3007976D19B19BBB0008A7A0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		3007976F19B19BBB0008A7A0 /* JGiViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = JGiViewController.h; sourceTree = "<group>"; };
-		3007977019B19BBB0008A7A0 /* JGiViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = JGiViewController.m; sourceTree = "<group>"; };
 		3007977219B19BBB0008A7A0 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 		3007977819B19BBB0008A7A0 /* TheChallengeUIViewTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TheChallengeUIViewTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3007977919B19BBB0008A7A0 /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
 		3007978119B19BBB0008A7A0 /* TheChallengeUIViewTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "TheChallengeUIViewTests-Info.plist"; sourceTree = "<group>"; };
 		3007978319B19BBB0008A7A0 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		3007978519B19BBB0008A7A0 /* TheChallengeUIViewTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TheChallengeUIViewTests.m; sourceTree = "<group>"; };
+		3098853719B1A6A200C6BF6A /* OWOuterSpaceTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = OWOuterSpaceTableViewController.h; path = ../OWOuterSpaceTableViewController.h; sourceTree = "<group>"; };
+		3098853819B1A6A200C6BF6A /* OWOuterSpaceTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = OWOuterSpaceTableViewController.m; path = ../OWOuterSpaceTableViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -112,11 +112,11 @@
 		3007976019B19BBB0008A7A0 /* TheChallengeUIView */ = {
 			isa = PBXGroup;
 			children = (
+				3098853719B1A6A200C6BF6A /* OWOuterSpaceTableViewController.h */,
+				3098853819B1A6A200C6BF6A /* OWOuterSpaceTableViewController.m */,
 				3007976919B19BBB0008A7A0 /* JGiAppDelegate.h */,
 				3007976A19B19BBB0008A7A0 /* JGiAppDelegate.m */,
 				3007976C19B19BBB0008A7A0 /* Main.storyboard */,
-				3007976F19B19BBB0008A7A0 /* JGiViewController.h */,
-				3007977019B19BBB0008A7A0 /* JGiViewController.m */,
 				3007977219B19BBB0008A7A0 /* Images.xcassets */,
 				3007976119B19BBB0008A7A0 /* Supporting Files */,
 			);
@@ -250,7 +250,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3007977119B19BBB0008A7A0 /* JGiViewController.m in Sources */,
+				3098853919B1A6A200C6BF6A /* OWOuterSpaceTableViewController.m in Sources */,
 				3007976719B19BBB0008A7A0 /* main.m in Sources */,
 				3007976B19B19BBB0008A7A0 /* JGiAppDelegate.m in Sources */,
 			);
@@ -457,6 +457,7 @@
 				3007978B19B19BBB0008A7A0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		3007978C19B19BBB0008A7A0 /* Build configuration list for PBXNativeTarget "TheChallengeUIViewTests" */ = {
 			isa = XCConfigurationList;
@@ -465,6 +466,7 @@
 				3007978E19B19BBB0008A7A0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

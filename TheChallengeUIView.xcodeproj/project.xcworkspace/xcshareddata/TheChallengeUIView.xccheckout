@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>E1335390-48AC-4B02-8996-2D8913C36361</string>
+	<key>IDESourceControlProjectName</key>
+	<string>TheChallengeUIView</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>DC41B6BB-2CD8-4126-9425-7B801505824D</key>
+		<string>https://github.com/geocyp/iOS-7-Test-Git.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>TheChallengeUIView.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>DC41B6BB-2CD8-4126-9425-7B801505824D</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/geocyp/iOS-7-Test-Git.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>DC41B6BB-2CD8-4126-9425-7B801505824D</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>DC41B6BB-2CD8-4126-9425-7B801505824D</string>
+			<key>IDESourceControlWCCName</key>
+			<string>TheChallengeUIView</string>
+		</dict>
+	</array>
+</dict>
+</plist>
